@@ -1,4 +1,4 @@
-name: CI-JAVA-APP-GALAXY
+name: App Engine
 on:
   push:
     branches: [ "main" ]
